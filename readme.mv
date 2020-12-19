@@ -1,0 +1,26 @@
+Que es un control de versiones?
+
+    -Como su nombre lo indica, nos permite regresar en el tiempo 
+    a una version anterior de nuestro proyeto. Tener el control de
+    los cambios realizados, saber quien los realizo y comparar versiones.
+
+
+Cuales son los problemas al no usar un control de versiones?
+
+    -Al tener varios versiones de un proyecto y varias personas
+    trabajando en un solo proyecto, no puedes saber que version
+    es la final, aparte que se puede perder ya que no esta en
+    la nube. Si se corrompe o se hace un mal cambio, se perderia
+    mucho tiempo averiguando quien efectuo tal cambio.
+
+Cuales son los beneficios?
+
+    -Se puede revertir los archivos a un estado anterior, revertir
+    todo un proyecto, comparar cambios, saber quien modifico por
+    ultima vez.
+
+Que tipos de control de versiones existen?
+
+    -Local version control systems
+    -Centralized version control systems
+    -Distributed vesrion control systems
